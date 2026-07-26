@@ -1,4 +1,4 @@
-- Hi, I'm Micah!
+- Hello there!
 - I like developing full-stack applications in React and Next.js
 - If you have any questions or want to contribute to a project, feel free to let me know!
 
